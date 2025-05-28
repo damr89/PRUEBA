@@ -1,0 +1,12 @@
+package ejer4;
+
+public class Ejer4 {
+
+
+    public static void main(String[] args) {
+        Banco.mostrar();
+        Banco.actualizar(2.5);
+        Banco.mostrar();
+    }
+    
+}
