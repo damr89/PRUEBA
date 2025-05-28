@@ -9,6 +9,8 @@ public class Ejer4 {
         Banco.mostrar();
         
         System.out.println("PRUEBA 1");
+        
+        System.out.println("PRUEBA 2");
     }
     
 }

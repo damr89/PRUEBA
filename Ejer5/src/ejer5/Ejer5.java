@@ -8,6 +8,8 @@ public class Ejer5 {
         a1.mostrarTipo();
         
         System.out.println("PRUEBA 1");
+        
+        System.out.println("PRUEBA 2");
     }
     
 }
