@@ -13,8 +13,15 @@ public class Ejer3 {
         Contador cont5 = new Contador();
         cont1.mostrarTotal();
         System.out.println("PRUEBA 1");
+
         
         System.out.println("PRUEBA 2");
+
+
+        System.out.println("PRUEBA Git");
+        
+        System.out.println("PRUEBA 3");
+
     }
     
 }

@@ -10,6 +10,8 @@ public class Ejer5 {
         System.out.println("PRUEBA 1");
         
         System.out.println("PRUEBA 2");
+        
+        System.out.println("PRUEBA 3");
     }
     
 }
