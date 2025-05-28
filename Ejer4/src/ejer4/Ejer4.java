@@ -7,6 +7,8 @@ public class Ejer4 {
         Banco.mostrar();
         Banco.actualizar(2.5);
         Banco.mostrar();
+        
+        System.out.println("PRUEBA 1");
     }
     
 }
